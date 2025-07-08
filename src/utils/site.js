@@ -1,5 +1,5 @@
 export const url = 'https://analsmp.pages.dev';
-export const nama = 'Anal mp';
+export const nama = 'Anal Smp';
 export const desk = 'Video Bokep Indo Terbaru Bocil Ngentot Jilbab Smp Mama Viral Sma Cindo Tante';
 export const terbit = '2025-03-09T00:01:03Z';
 
